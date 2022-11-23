@@ -2,3 +2,4 @@ flaskr-tdd
 *.pyc
 *.DS_Store
 __pycache__
+test.db
