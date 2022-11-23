@@ -1,1 +1,4 @@
-/flaskr-tdd/env
+flaskr-tdd
+*.pyc
+*.DS_Store
+__pycache__
